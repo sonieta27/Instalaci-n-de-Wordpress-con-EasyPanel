@@ -1,12 +1,21 @@
 # Instalación de Wordpress con EasyPanel
 
-## Primer paso
-1. Realiza la instalación de EasyPanel en la máquina virtual de Ubuntu y haz una captura del panel de control en la URL http://localhost:3000
-![primera captura easypanel](https://user-images.githubusercontent.com/122264807/229455494-61e61266-0272-477d-837c-d0c1d49c67e8.png)
+En primer lugar, realizamos la instalación de easypanel, para poder usar wordpress.
 
-en la máquina virtual tenemos que poner lo siguiente:
+Para hacer la instalación pondremos en la terminal de nuestra máquina virtual:
+
 sudo su
 curl -sSL https://get.easypanel.io | sh
+
+![sudo su](https://user-images.githubusercontent.com/122264807/232999976-dd4480ff-b836-4bc5-aec2-c0d9b19ecabf.png)
+
+![curl](https://user-images.githubusercontent.com/122264807/233000036-dcd64c7b-27cc-4d33-bbf4-7240673c2e34.png)
+
+
+## Primer paso
+1.Una vez realizada la instalación, accedemos al panel de control en la URL http://localhost:3000
+![](https://user-images.githubusercontent.com/122264807/229455494-61e61266-0272-477d-837c-d0c1d49c67e8.png)
+
 
 ## Segundo paso
 2. A partir de la plantilla de Wordpress activa el servidor web y haz una captura del panel de control de Wordpress.
@@ -26,11 +35,15 @@ curl -sSL https://get.easypanel.io | sh
 
 ![capt 5](https://user-images.githubusercontent.com/122264807/229457841-de51daba-4cef-4d51-9ae7-6633e7c3d1d3.png)
 
+## Cuarto paso
+
+Le daremos a añadir una nueva página y entonces podremos crearla
 
 
+![](https://user-images.githubusercontent.com/122264807/232997799-324c7978-85b6-412f-8281-e42b458ec1b1.png)
 
 
-
+![](https://user-images.githubusercontent.com/122264807/232997844-95f99421-8de5-46d7-aedb-d30a84450602.png)
 
 
 
