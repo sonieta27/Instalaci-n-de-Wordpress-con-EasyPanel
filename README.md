@@ -46,6 +46,7 @@ Le daremos a añadir una nueva página y entonces podremos crearla
 ![](https://user-images.githubusercontent.com/122264807/232997844-95f99421-8de5-46d7-aedb-d30a84450602.png)
 
 
+En el caso de tenerla ya creada, le podremos dar a abrir el editor del sitio y a editar los estilos.
 
 
 
