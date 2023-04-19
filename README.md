@@ -22,7 +22,7 @@ curl -sSL https://get.easypanel.io | sh
 ![captura 4](https://user-images.githubusercontent.com/122264807/229457257-47fa9926-f09c-4b60-9274-b74dd61a8923.png)
 
 ## Tercer paso
-3. Una vez instalado Wordpress podreis acceder al blog mediante la URL "http://localhost" y al panel de control de Wordpress mediante la URL "http://localhost/wp-admin". Publica un artículo en github.com como un nuevo repositorio llamado wordpress-docs donde indiques como has instalado Wordpress. Para ello elige un tema ODS que prefieras comentando alguna noticia relacionada del area local.
+3. Una vez instalado Wordpress podreis acceder al blog mediante la URL "http://localhost" y al panel de control de Wordpress mediante la URL "http://localhost/wp-admin".
 
 ![capt 5](https://user-images.githubusercontent.com/122264807/229457841-de51daba-4cef-4d51-9ae7-6633e7c3d1d3.png)
 
