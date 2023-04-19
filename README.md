@@ -54,6 +54,7 @@ Creación de una noticia:
 Después de haber puesto título a nuestra página y haberla creado, ya podemos escribir y crear nuestra noticia, en este caso he elegido un tema ods.
 
 
+![modificamos a nuestro gusto](https://user-images.githubusercontent.com/122264807/233004696-6e890978-35e7-49ba-964b-fe2a701fa0d4.png)
 
 
 
