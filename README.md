@@ -48,6 +48,12 @@ Le daremos a añadir una nueva página y entonces podremos crearla
 
 En el caso de tenerla ya creada, le podremos dar a abrir el editor del sitio y a editar los estilos.
 
+## Quinto paso
+
+Creación de una noticia:
+Después de haber puesto título a nuestra página y haberla creado, ya podemos escribir y crear nuestra noticia, en este caso he elegido un tema ods.
+
+
 
 
 
